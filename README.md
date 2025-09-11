@@ -28,3 +28,5 @@ Submissions will never close!
 ## 📅 Timeline
 Submissions open: Today  
 Submissions close: [never]
+
+[![Evaluate Submission](https://github.com/ModuleMaster64/python-hackathon/actions/workflows/evaluate.yml/badge.svg)](https://github.com/ModuleMaster64/python-hackathon/actions/workflows/evaluate.yml)
