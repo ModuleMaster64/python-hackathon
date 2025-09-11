@@ -1,4 +1,4 @@
-# My Cool Python Project  // this is a example. When you make a PR change it 
+# My Cool Python Project! this is a example. When you make a PR change it 
 
 ## Description
 A Python app that tracks your mood using sentiment analysis.
